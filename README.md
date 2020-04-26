@@ -2,7 +2,7 @@
  东软云HIS Toy Project
 2019 东北大学软件学院 Web+数据库 课程设计
 
-Vue.js 2.x + Spring Boot
+Vue.js 2.x (Folder `demo`) + Spring Boot  (Folder `backend`) + MySQL
 
 ### sample
 [http://67.218.157.100:8443](http://67.218.157.100:8443)
