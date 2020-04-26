@@ -8,5 +8,5 @@ Vue.js 2.x + Spring Boot
 [http://67.218.157.100:8443](http://67.218.157.100:8443)
 
 #### 供测试账户
-username: bianque
-password: bianque123
+- username: bianque
+- password: bianque123
